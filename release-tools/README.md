@@ -1,1 +1,0 @@
-# NVIDIA DeepLearningExamples Download script
